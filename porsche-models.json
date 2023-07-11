@@ -1,0 +1,218 @@
+[
+  {
+    "_id": "5fb3f194ed9973001e32b589",
+    "name": "911 Carrera",
+    "year": { "$numberInt": "2023" },
+    "price": "$108,600",
+    "engine": "3.0L Flat-6",
+    "horsepower": { "$numberInt": "379" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b58a",
+    "name": "Panamera",
+    "year": { "$numberInt": "2023" },
+    "price": "$87,200",
+    "engine": "2.9L V6",
+    "horsepower": { "$numberInt": "325" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b58b",
+    "name": "Cayenne",
+    "year": { "$numberInt": "2023" },
+    "price": "$68,900",
+    "engine": "3.0L V6",
+    "horsepower": { "$numberInt": "335" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b58c",
+    "name": "Macan",
+    "year": { "$numberInt": "2023" },
+    "price": "$52,100",
+    "engine": "2.0L Inline-4",
+    "horsepower": { "$numberInt": "261" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b58d",
+    "name": "Taycan",
+    "year": { "$numberInt": "2023" },
+    "price": "$81,250",
+    "engine": "Electric",
+    "horsepower": { "$numberInt": "375" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b58e",
+    "name": "Cayman",
+    "year": { "$numberInt": "2023" },
+    "price": "$59,900",
+    "engine": "2.0L Flat-4",
+    "horsepower": { "$numberInt": "300" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b58f",
+    "name": "Boxster",
+    "year": { "$numberInt": "2023" },
+    "price": "$62,000",
+    "engine": "2.0L Flat-4",
+    "horsepower": { "$numberInt": "300" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b590",
+    "name": "911 Turbo",
+    "year": { "$numberInt": "2023" },
+    "price": "$170,800",
+    "engine": "3.8L Flat-6",
+    "horsepower": { "$numberInt": "572" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b591",
+    "name": "911 GT3",
+    "year": { "$numberInt": "2023" },
+    "price": "$143,600",
+    "engine": "4.0L Flat-6",
+    "horsepower": { "$numberInt": "502" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b592",
+    "name": "911 Targa",
+    "year": { "$numberInt": "2023" },
+    "price": "$122,600",
+    "engine": "3.0L Flat-6",
+    "horsepower": { "$numberInt": "379" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b593",
+    "name": "911 Turbo S",
+    "year": { "$numberInt": "2023" },
+    "price": "$203,500",
+    "engine": "3.8L Flat-6",
+    "horsepower": { "$numberInt": "640" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b594",
+    "name": "911 GT2 RS",
+    "year": { "$numberInt": "2023" },
+    "price": "$334,500",
+    "engine": "3.8L Flat-6",
+    "horsepower": { "$numberInt": "690" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b595",
+    "name": "Panamera Turbo S E-Hybrid",
+    "year": { "$numberInt": "2023" },
+    "price": "$190,700",
+    "engine": "4.0L V8 + Electric",
+    "horsepower": { "$numberInt": "689" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b596",
+    "name": "Cayenne Coupe",
+    "year": { "$numberInt": "2023" },
+    "price": "$76,500",
+    "engine": "3.0L V6",
+    "horsepower": { "$numberInt": "335" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b597",
+    "name": "Macan GTS",
+    "year": { "$numberInt": "2023" },
+    "price": "$77,000",
+    "engine": "2.9L V6",
+    "horsepower": { "$numberInt": "375" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b598",
+    "name": "Taycan Cross Turismo",
+    "year": { "$numberInt": "2023" },
+    "price": "$90,900",
+    "engine": "Electric",
+    "horsepower": { "$numberInt": "375" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b599",
+    "name": "718 Cayman",
+    "year": { "$numberInt": "2023" },
+    "price": "$61,500",
+    "engine": "2.0L Turbocharged Flat-4",
+    "horsepower": { "$numberInt": "300" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b59a",
+    "name": "718 Boxster",
+    "year": { "$numberInt": "2023" },
+    "price": "$63,800",
+    "engine": "2.0L Turbocharged Flat-4",
+    "horsepower": { "$numberInt": "300" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b59b",
+    "name": "718 Spyder",
+    "year": { "$numberInt": "2023" },
+    "price": "$97,300",
+    "engine": "4.0L Flat-6",
+    "horsepower": { "$numberInt": "414" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b59c",
+    "name": "718 GTS 4.0",
+    "year": { "$numberInt": "2023" },
+    "price": "$88,900",
+    "engine": "4.0L Flat-6",
+    "horsepower": { "$numberInt": "394" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b59d",
+    "name": "Cayenne Turbo",
+    "year": { "$numberInt": "2023" },
+    "price": "$127,800",
+    "engine": "4.0L V8",
+    "horsepower": { "$numberInt": "541" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b59e",
+    "name": "Cayenne Turbo S E-Hybrid",
+    "year": { "$numberInt": "2023" },
+    "price": "$165,700",
+    "engine": "4.0L V8 + Electric",
+    "horsepower": { "$numberInt": "670" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b59f",
+    "name": "Cayenne GTS",
+    "year": { "$numberInt": "2023" },
+    "price": "$111,100",
+    "engine": "4.0L V8",
+    "horsepower": { "$numberInt": "453" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b5a0",
+    "name": "Macan Turbo",
+    "year": { "$numberInt": "2023" },
+    "price": "$91,500",
+    "engine": "2.9L V6",
+    "horsepower": { "$numberInt": "434" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b5a1",
+    "name": "Macan Turbo GT",
+    "year": { "$numberInt": "2023" },
+    "price": "$115,000",
+    "engine": "4.0L V8",
+    "horsepower": { "$numberInt": "631" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b5a2",
+    "name": "Taycan Turbo",
+    "year": { "$numberInt": "2023" },
+    "price": "$154,250",
+    "engine": "Electric",
+    "horsepower": { "$numberInt": "616" }
+  },
+  {
+    "_id": "5fb3f194ed9973001e32b5a3",
+    "name": "Taycan Turbo S",
+    "year": { "$numberInt": "2023" },
+    "price": "$189,350",
+    "engine": "Electric",
+    "horsepower": { "$numberInt": "616" }
+  }
+]
